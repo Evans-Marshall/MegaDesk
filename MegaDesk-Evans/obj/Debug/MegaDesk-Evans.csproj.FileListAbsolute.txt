@@ -1,0 +1,13 @@
+C:\Users\yungm\source\repos\MegaDesk-Evans\MegaDesk-Evans\bin\Debug\MegaDesk-Evans.exe.config
+C:\Users\yungm\source\repos\MegaDesk-Evans\MegaDesk-Evans\bin\Debug\MegaDesk-Evans.exe
+C:\Users\yungm\source\repos\MegaDesk-Evans\MegaDesk-Evans\bin\Debug\MegaDesk-Evans.pdb
+C:\Users\yungm\source\repos\MegaDesk-Evans\MegaDesk-Evans\obj\Debug\MegaDesk-Evans.csprojAssemblyReference.cache
+C:\Users\yungm\source\repos\MegaDesk-Evans\MegaDesk-Evans\obj\Debug\MegaDesk_Evans.AddQuote.resources
+C:\Users\yungm\source\repos\MegaDesk-Evans\MegaDesk-Evans\obj\Debug\MegaDesk_Evans.DisplayQuote.resources
+C:\Users\yungm\source\repos\MegaDesk-Evans\MegaDesk-Evans\obj\Debug\MegaDesk_Evans.MainMenu.resources
+C:\Users\yungm\source\repos\MegaDesk-Evans\MegaDesk-Evans\obj\Debug\MegaDesk_Evans.Properties.Resources.resources
+C:\Users\yungm\source\repos\MegaDesk-Evans\MegaDesk-Evans\obj\Debug\MegaDesk_Evans.SearchQuotes.resources
+C:\Users\yungm\source\repos\MegaDesk-Evans\MegaDesk-Evans\obj\Debug\MegaDesk_Evans.ViewAllQuotes.resources
+C:\Users\yungm\source\repos\MegaDesk-Evans\MegaDesk-Evans\obj\Debug\MegaDesk-Evans.csproj.GenerateResource.cache
+C:\Users\yungm\source\repos\MegaDesk-Evans\MegaDesk-Evans\obj\Debug\MegaDesk-Evans.exe
+C:\Users\yungm\source\repos\MegaDesk-Evans\MegaDesk-Evans\obj\Debug\MegaDesk-Evans.pdb
